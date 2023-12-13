@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Sumanyu301/Sumanyu301/assets/122663910/f89c74a0-bc74-4a3c-beb6-774c318c1f61" alt="Profile Views" />
+<img src="https://github.com/Sumanyu301/Sumanyu301/assets/122663910/f89c74a0-bc74-4a3c-beb6-774c318c1f61.gif" alt="Profile Views" />
 <h1 align="center" style="color: white;">Hey there! <br> I'm Sumanyu Sharma 👋<h1>
 
 <p align="left">
